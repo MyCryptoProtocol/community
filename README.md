@@ -41,10 +41,7 @@ MCP is an open protocol that welcomes contributions from developers, users, and 
 
 ## Weekly Community Calls
 
-We host weekly community calls to discuss project updates, answer questions, and gather feedback. Calls are held every Wednesday at 12:00 UTC.
-
-- **Calendar**: [Add to your calendar](https://calendar.google.com/calendar/mycryptoprotocol)
-- **Meeting Link**: [Zoom Meeting](https://zoom.us/j/mycryptoprotocol)
+We host weekly community calls to discuss project updates, answer questions, and gather feedback. To be defined.
 
 ## Getting Help
 
